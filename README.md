@@ -10,7 +10,7 @@
 <a target="_blank" align="center">
   <img align="right" top="500" width="400" alt="GIF" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" margin-bottom="10px">
 </a>
-
+</br>
 <p margin-top="10px">
   <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe XD-450034?style=flat-square&logo=adobexd&logoColor=white" height="23"/>
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-ea2845?style=flat-square&logo=figma&logoColor=white" height="23"/>
