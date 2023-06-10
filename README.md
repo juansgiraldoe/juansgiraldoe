@@ -1,15 +1,19 @@
 <h1 align="center">Hi , I'm Sebastian Giraldo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ### 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp;I like to explore new technologies and learn to develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently learning more and reinforcing knowledge in an autonomous way..\
+<p>
+💡 &nbsp;I like to explore new technologies and learn to develop software solutions and quick hacks.</br>
+🎓 &nbsp;I'm currently learning more and reinforcing knowledge in an autonomous way.</br>
 🌱 &nbsp;I'm on the right track to learn more about web development, apps and smart contracts.
+</p>
+
 
 ### 🛠 &nbsp;Tech I Use
 <a target="_blank" align="center">
   <img align="right" top="500" width="400" alt="GIF" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" margin-bottom="10px">
 </a>
+
+
 </br>
 <p margin="10px">
   <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe XD-450034?style=flat-square&logo=adobexd&logoColor=white" height="23"/>
