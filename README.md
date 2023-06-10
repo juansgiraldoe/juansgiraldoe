@@ -4,7 +4,7 @@
 
 💡 &nbsp;I like to explore new technologies and learn to develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently learning more and reinforcing knowledge in an autonomous way..\
-🌱 &nbsp;I'm on the right track to learn more about web development, apps and smart contracts.\
+🌱 &nbsp;I'm on the right track to learn more about web development, apps and smart contracts.
 
 ### 🛠 &nbsp;Tech I Use
 <a target="_blank" align="center">
