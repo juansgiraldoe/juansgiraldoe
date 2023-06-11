@@ -42,7 +42,6 @@
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-ffffff?style=flat-square&logo=next.js&logoColor=black" height="23"/>
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-ffffff?style=flat-square&logo=vercel&logoColor=black" height="23"/>
   <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-ffffff?style=flat-square&logo=solidity&logoColor=black" height="23"/>
-  <img alt="Rust" src="https://img.shields.io/badge/-Rust-ffffff?style=flat-square&logo=rust&logoColor=black" height="23"/>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" height="23"/>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-001E2B?style=flat-square&logo=mongodb&logoColor=white" height="23"/>
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-E34F26?style=flat-square&logo=postman&logoColor=white" height="23"/> 
