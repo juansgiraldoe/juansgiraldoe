@@ -32,6 +32,7 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7A09F8?style=flat-square&logo=bootstrap&logoColor=white" height="23"/>
   <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-ea2845?style=flat-square&logo=tailwindcss&logoColor=white" height="23"/>
   <img alt="React" src="https://img.shields.io/badge/-React-222222?style=flat-square&logo=react&react=white" height="23"/>
+  <img alt="Astro" src="https://img.shields.io/badge/-Astro-ffffff?style=flat-square&logo=astro&astro=white" height="23"/>
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&react=white" height="23"/>
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-ffffff?style=flat-square&logo=next.js&logoColor=black" height="23"/>
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-ffffff?style=flat-square&logo=vercel&logoColor=black" height="23"/>
