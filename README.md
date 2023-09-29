@@ -13,7 +13,6 @@
 
 </br>
 <p margin="10px">
-  <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe XD-450034?style=flat-square&logo=adobexd&logoColor=white" height="23"/>
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-ea2845?style=flat-square&logo=figma&logoColor=white" height="23"/>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code -0C80CE?style=flat-square&logo=visual-studio-code&logoColor=white" height="23"/>
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-000000?style=flat-square&logo=vite&react=white" height="23"/>
@@ -25,11 +24,6 @@
   <img alt="Wordpress" src="https://img.shields.io/badge/-Wordpress-0275A1?style=flat-square&logo=wordpress&logoColor=black" height="23"/>
   <img alt="Woocommerce" src="https://img.shields.io/badge/-Woocommerce-8053B4?style=flat-square&logo=woocommerce&logoColor=black" height="23"/>
   <img alt="Shopify" src="https://img.shields.io/badge/-Shopify-43853d?style=flat-square&logo=shopify&logoColor=black" height="23"/>
-  <img alt="Discord" src="https://img.shields.io/badge/-Discord-222222?style=flat-square&logo=discord&react=white" height="23"/>
-  <img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white" height="23"/>
-  <img alt="Trello" src="https://img.shields.io/badge/-Trello-264DE4?style=flat-square&logo=trello&logoColor=white" height="23"/>
-  <img alt="Bitcoin" src="https://img.shields.io/badge/-Bitcoin-222222?style=flat-square&logo=bitcoin&react=white" height="23"/>
-  <img alt="Ethereum" src="https://img.shields.io/badge/-Ethereum-222222?style=flat-square&logo=ethereum&react=white" height="23"/>
 </p>
 
 ### 📚 &nbsp;I'm Learning
@@ -41,7 +35,6 @@
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&react=white" height="23"/>
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-ffffff?style=flat-square&logo=next.js&logoColor=black" height="23"/>
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-ffffff?style=flat-square&logo=vercel&logoColor=black" height="23"/>
-  <img alt="Solidity" src="https://img.shields.io/badge/-Solidity-ffffff?style=flat-square&logo=solidity&logoColor=black" height="23"/>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" height="23"/>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-001E2B?style=flat-square&logo=mongodb&logoColor=white" height="23"/>
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-E34F26?style=flat-square&logo=postman&logoColor=white" height="23"/> 
