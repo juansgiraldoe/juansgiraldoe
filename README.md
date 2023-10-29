@@ -16,8 +16,8 @@
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-ea2845?style=flat-square&logo=figma&logoColor=white" height="23"/>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code -0C80CE?style=flat-square&logo=visual-studio-code&logoColor=white" height="23"/>
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-000000?style=flat-square&logo=vite&react=white" height="23"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-430098?style=flat-square&logo=github&logoColor=white" height="23"/>
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white" height="23"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-430098?style=flat-square&logo=github&logoColor=white" height="23"/>
   <img alt="Html" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="23"/>
   <img alt="Css" src="https://img.shields.io/badge/-CSS3-264DE4?style=flat-square&logo=css3&logoColor=white" height="23"/>
   <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-FFDD25?style=flat-square&logo=javascript&logoColor=black" height="23"/>
